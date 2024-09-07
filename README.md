@@ -177,11 +177,6 @@
 
 ---
 
-## Final Exam and Certification
-
-- A comprehensive exam covering all modules.
-- Certification upon successful completion.
-
 ---
 
 ## Additional Resources:
