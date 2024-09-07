@@ -4,26 +4,26 @@
 
 ## Module 1: Introduction to Databases
 
-### What is a Database?
+### What is a Database?(https://github.com/KOMUPeter/database_revision/blob/main/1-What_is_a_Database/introduction.md)
 
 - **Definition of a database.**
 - **Examples of databases:** MySQL, PostgreSQL, Oracle, SQL Server.
 - **Types of databases:** Relational vs. NoSQL.
 
-### Database Management Systems (DBMS)
+### Database Management Systems (DBMS)(https://github.com/KOMUPeter/database_revision/blob/main/2-database_management_systems/dbms.md)
 
 - **What is a DBMS?**
 - **Types of DBMS:** Hierarchical, Network, Relational, Object-Oriented.
 - **Importance of DBMS in data management.**
 
-### Relational Databases
+### Relational Databases(https://github.com/KOMUPeter/database_revision/blob/main/3-relational_databases/relational-db.md)
 
 - **Definition and structure:** tables, rows, columns.
 - **Relationships:** One-to-One, One-to-Many, Many-to-Many.
 - **Primary keys and foreign keys.**
 - **Normalization:** 1NF, 2NF, 3NF.
 
-### ERD (Entity-Relationship Diagram)
+### ERD (Entity-Relationship Diagram)(https://github.com/KOMUPeter/database_revision/blob/main/4-ERD_(Entity-Relationship-Diagram/erd.md))
 
 - **What is an ERD?**
 - **Components:** Entities, Attributes, Relationships.
@@ -39,7 +39,7 @@
 - **Importance of SQL in database management.**
 - **SQL syntax and structure.**
 
-### Basic SQL Commands
+### Basic SQL Commands (https://github.com/KOMUPeter/database_revision/blob/main/5-sql-commands/sqls.md)
 
 - **SELECT:** Retrieving data from a database.
 - **WHERE:** Filtering data.

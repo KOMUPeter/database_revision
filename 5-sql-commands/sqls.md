@@ -1,5 +1,3 @@
-markdown
-Copy code
 # Basic SQL Commands
 
 ## 1. SELECT: Retrieving Data from a Database
